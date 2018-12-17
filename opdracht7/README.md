@@ -1,6 +1,6 @@
 # voorbeeldFormulier
 life versie op:
-25602.hosts2.ma-cloud.nl/bewijzenmap/periode1.2/pro1/opdracht7/customerInfo.html
+http://25602.hosts2.ma-cloud.nl/bewijzenmap/periode1.2/pro1/opdracht7/customerInfo.html
 
 Een formulier om de code te bestuderen. Het is nogal basic, om kennis te maken met formulier-elementen.
 De oefening en theorie staat op: https://blanken5.home.xs4all.nl/formulieren.html
